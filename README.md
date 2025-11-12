@@ -5,7 +5,7 @@ A comprehensive donation platform connecting donors with verified NGOs to donate
 ## Features
 
 ### 🔐 Authentication & Security
-- JWT-based authentication with role-based access control
+- JWT based authentication with role-based access control
 - Three user roles: Donor, NGO, and Admin
 - Secure password hashing with bcrypt
 - Protected routes with ownership validation
